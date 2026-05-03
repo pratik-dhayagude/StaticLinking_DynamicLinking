@@ -17,3 +17,65 @@
   <img src="https://img.shields.io/github/repo-size/pratik-dhayagude/StaticLinking_DynamicLinking" />
   <img src="https://img.shields.io/github/license/pratik-dhayagude/StaticLinking_DynamicLinking" />
 </p>
+
+🔗 Static Linking vs Dynamic Linking
+
+This project demonstrates the core concepts of static linking and dynamic linking in system programming 💻. It helps understand how programs connect with libraries during compilation and execution.
+
+⸻
+
+🚀 Project Overview
+
+	•	📖 Learn the difference between static and dynamic linking
+	•	⚙️ Understand how libraries are attached to programs
+	•	🧠 Explore memory usage and execution behavior
+	•	🧪 Practice with real examples
+
+⸻
+
+🔍 Key Concepts
+
+📌 Static Linking
+
+	•	🔒 Libraries linked at compile time
+	•	📦 Creates a standalone executable
+	•	⚡ Faster execution
+	•	📈 Larger file size
+
+📌 Dynamic Linking
+
+	•	🔗 Libraries linked at runtime
+	•	📉 Smaller executable size
+	•	💾 Saves memory (shared libraries)
+	•	🔄 Easier updates
+
+⸻
+
+🧪 Features
+
+	•	📝 Simple example programs
+	•	🛠️ Compilation commands included
+	•	📊 Comparison of size and performance
+	•	👨‍💻 Beginner-friendly code
+
+⸻
+
+🎯 Objective
+
+	•	🎓 Help students understand linking concepts
+	•	🧩 Build strong system programming basics
+	•	🔍 Compare real-world behavior of executables
+
+⸻
+
+🛠️ Tech Stack
+
+	•	💻 Language: C / C++
+	•	⚙️ Compiler: GCC
+	•	🐧 Platform: Linux / Unix
+
+📚 Use Cases
+
+	•	🎓 Academic learning
+	•	💼 Interview preparation
+	•	🔬 System-level understanding
